@@ -15,4 +15,10 @@ Instruções para rodar o código:
 
 Para baixar a IDE Anaconda acesse: https://www.continuum.io/downloads.
 
-Acesse o jupyter notebook e abra o arquivo
+Passos:
+Acesse o jupyter notebook.
+Baixe os três datasets disponíveis neste repositório.
+Abra o arquivo Movehub_Rating_greatscore.ipynb.
+Execute-o e observe os resultados obtidos.
+
+Se tiver dúvidas ou precisar de ajuda para entender ou executar o código pode entrar em contato comigo sem problemas.
