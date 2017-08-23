@@ -1,4 +1,4 @@
-# Kaggle Data-set MoveHub-Cities
+# Kaggle DataSet MoveHub-Cities
 Previsão do ranking das melhores cidades para se viver.
 
  A predição do ranking das melhores cidades para se viver com base em dados conhecidos é um problema alcançável, pois é constatável que melhores cidades para se viver possuem em sua localidade pessoas com boa qualidade de vida, com bons salários e com poder de compra, e em contraste cidades menos favorecidas possuem altas taxas de crime, pobreza e poluição. Assim, cada fator citado, entre outros influenciam em como uma cidade pode ser avaliada. 
